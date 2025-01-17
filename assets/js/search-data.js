@@ -26,8 +26,8 @@ ninja.data = [{
         },{id: "news-i-will-become-a-phd-students-mentored-by-prof-kai-chen-at-hkust-since-2025fall",
           title: 'I will become a Phd students mentored by Prof. Kai Chen at HKUST...',
           description: "",
-          section: "News",},{id: "news-i-will-become-a-intern-at-bytedance-doubao-team",
-          title: 'I will become a intern at Bytedance’ Doubao team!',
+          section: "News",},{id: "news-i-will-become-a-intern-at-bytedance",
+          title: 'I will become a intern at Bytedance!',
           description: "",
           section: "News",},{
         id: 'social-email',
