@@ -15,6 +15,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a final year undergraduate student majoring in Computer Science at University of Science and Technology of China. Now, I am also an intern at Bytedance, building infrastructure for Doubao LLM.
+I am a final year undergraduate student majoring in Computer Science at University of Science and Technology of China. Now, I am also an intern at Bytedance.
 
 I am broadly interested in computer systems. More specifically, I am interested in building systems for ML and leveraging ML to optimize systems.
