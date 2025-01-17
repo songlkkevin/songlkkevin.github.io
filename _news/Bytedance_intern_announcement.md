@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will become a intern at Bytedance' Doubao team!
+I will become a intern at Bytedance!
