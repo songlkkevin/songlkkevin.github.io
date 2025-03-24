@@ -15,10 +15,6 @@
         - title: Mentor
           contents:
             - Prof. Tianyin Xu
-        - title: Related Topics
-          contents:
-            - Cloud computing
-            - CPU scheduling
 
     - title: Research Assistant
       institution: ADSL@USTC
@@ -28,14 +24,9 @@
           contents:
             - Prof. Cheng Li
             - Prof. Sam Noh
-        - title: Related Topics
-          contents:
-            - Storage system
-            - Page Cache
-            - xPU
 
 - title: Hobbies
   type: list
   contents:
     - <u>Sports:</u> Soccer, Badminton.
-    - <u>Innstruments:</u> Saxphone.
+    - <u>Instruments:</u> Saxphone.
