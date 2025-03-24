@@ -8,6 +8,10 @@
 - title: Experience
   type: time_table
   contents:
+    - title:
+      institution: Seed-MLsys@Bytedance
+      year: 2025.01 - present
+
     - title: Rsearch Assistant
       institution: XLab@UIUC
       year: 2024.08 - 2024.12
