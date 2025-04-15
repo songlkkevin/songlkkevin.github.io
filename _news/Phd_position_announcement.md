@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will become a Phd students mentored by Prof. Kai Chen at HKUST since 2025Fall!
+I will become a Phd student mentored by Prof. Kai Chen at HKUST since 2025Fall!
