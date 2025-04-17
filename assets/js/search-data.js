@@ -34,6 +34,13 @@ ninja.data = [{
           window.open("mailto:%73%6F%6E%67%6C%69%6E%6B%61%69%30%33@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/songlkkevin", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
