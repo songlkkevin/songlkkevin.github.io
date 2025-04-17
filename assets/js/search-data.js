@@ -23,11 +23,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-i-will-become-a-phd-student-at-hkust-since-2025fall-see-you-at-hong-kong",
-          title: 'I will become a Phd student at HKUST since 2025Fall. See you at...',
+        },{id: "news-join-hkust-as-a-phd-student-see-you-at-hong-kong",
+          title: 'Join HKUST as a Phd student. See you at Hong Kong!',
           description: "",
-          section: "News",},{id: "news-i-will-become-an-intern-at-bytedance",
-          title: 'I will become an intern at Bytedance!',
+          section: "News",},{id: "news-join-bytedance-as-an-intern",
+          title: 'Join Bytedance as an intern.',
           description: "",
           section: "News",},{
         id: 'social-email',
