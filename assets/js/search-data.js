@@ -26,6 +26,9 @@ ninja.data = [{
         },{id: "news-join-bytedance-as-an-intern",
           title: 'Join Bytedance as an intern.',
           description: "",
+          section: "News",},{id: "news-join-hkust-as-a-phd-student",
+          title: 'Join HKUST as a PhD student.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
