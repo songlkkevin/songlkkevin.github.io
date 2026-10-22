@@ -17,4 +17,4 @@ social: true # includes social icons at the bottom of the page
 
 Linkai Song (宋林恺) is a first year PhD student at HKUST. He got his bachelor's degree in Computer Science at USTC. He is fortunate to have worked with Prof. [Cheng Li](https://mr-cheng-li.github.io/), Prof. [Sam H.Noh](https://next.cs.vt.edu/professor/) and Prof. [Tianyin Xu](https://tianyin.github.io/).
 
-He is broadly interested in computer systems. More specifically, he is interested in pushing systems to extremely efficient and reliable.
+He is broadly interested in computer systems. More specifically, he is currently interested in GPU OS and virtualization.
